@@ -61,15 +61,12 @@ article div.img {
     background-size: cover;
     border-radius: 8px 8px 0 0;
 }
-
-#i1 {
-    background: url("../img/foto-g.jpg") center;
+#Etec{
+    background: url(../Img/Etec\ frente.jpg) center;
 }
-
-#i2 {
-    background: url("../img/foto-m.jpg") center;
+#i2{
+    background: url(../Img/foto-g.jpg) center;
 }
-
 #i3 {
     background: url("../Img/xicaradecafe.jpg") top;
     background-size: cover;
