@@ -14,7 +14,6 @@ header {
     color: black;
     max-width: 1200px;
     margin: 0 auto;
-    text-align: center;
 }
 
 header h1 {
@@ -46,8 +45,7 @@ li a:hover {
     background-color: #eee;
 }
 main {
-    background-color: white;
-    padding-bottom: 20px;
+    background-color: #f9f9f9;
 }
 
 main #principal {
